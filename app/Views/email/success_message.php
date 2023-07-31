@@ -1,0 +1,1 @@
+<h1>Successfully sent an email</h1>
